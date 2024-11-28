@@ -1,0 +1,17 @@
+
+.oranje,
+.blauw{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.oranje{
+    background-color: orange;
+    color: white;
+    
+}
+
+.blauw{
+    background-color: rgba(0, 39, 214, 0.904);
+    color:black;
+    
+}
